@@ -49,4 +49,4 @@ python habit_tracker.py log
 
 The tool stores data in `~/.habits.db`. If you want to back up or sync your habits across machines, just copy this file.
 
-<!-- checked: 2026-09-23 -->
+<!-- checked: 2026-09-24 -->
